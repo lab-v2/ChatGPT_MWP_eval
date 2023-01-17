@@ -1,0 +1,5004 @@
+{
+    "Answers": [
+        {
+            "question_No": 0,
+            "final_answer": "2.5",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 1,
+            "final_answer": "39,122\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 2,
+            "final_answer": "4,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 3,
+            "final_answer": "1155\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 4,
+            "final_answer": "41\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 5,
+            "final_answer": "20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 6,
+            "final_answer": "4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 7,
+            "final_answer": "15,12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 8,
+            "final_answer": "63\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 9,
+            "final_answer": "49,13\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 10,
+            "final_answer": "4000,2000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 11,
+            "final_answer": "Not enough information, there could be many solution since this is a underdetermined system of equations.\n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 12,
+            "final_answer": "12\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 13,
+            "final_answer": "3000,1500\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 14,
+            "final_answer": "1.2\n",
+            "result": "has one or more of the answers when rounded, but not all of them"
+        },
+        {
+            "question_No": 15,
+            "final_answer": "24,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 16,
+            "final_answer": "84,60\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 17,
+            "final_answer": "It's impossible for the sum of two numbers to be 2 and the larger number is 14 more than three times the smaller, and the statement is contradictory. Please provide a valid question.\n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 18,
+            "final_answer": "5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 19,
+            "final_answer": "40,41\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 20,
+            "final_answer": "2,15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 21,
+            "final_answer": "21,26\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 22,
+            "final_answer": "3,7.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 23,
+            "final_answer": "68,72",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 24,
+            "final_answer": "48,16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 25,
+            "final_answer": "33,37",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 26,
+            "final_answer": "12,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 27,
+            "final_answer": "375,125\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 28,
+            "final_answer": "15,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 29,
+            "final_answer": "70.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 30,
+            "final_answer": "2,2/3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 31,
+            "final_answer": "24,42\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 32,
+            "final_answer": "8000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 33,
+            "final_answer": "2162",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 34,
+            "final_answer": "6,9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 35,
+            "final_answer": "225,225",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 36,
+            "final_answer": "20.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 37,
+            "final_answer": "This is a bit of an open-ended question, but the information provided doesn't allow to solve for specific answer. The time it takes to row upstream and downstream with a current and distance covered is given but the speed of the current and the speed of the boat in still water is not provided so it is not possible to determine the actual speed of the boat in still water, or the rate of the current.\n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 38,
+            "final_answer": "26, 130\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 39,
+            "final_answer": "12,36\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 40,
+            "final_answer": "3000,2000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 41,
+            "final_answer": "-4,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 42,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 43,
+            "final_answer": "7520,10600\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 44,
+            "final_answer": "40,48\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 45,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 46,
+            "final_answer": "42.33",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 47,
+            "final_answer": "30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 48,
+            "final_answer": "2.8,7.2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 49,
+            "final_answer": "3,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 50,
+            "final_answer": "3600,900\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 51,
+            "final_answer": "18,22\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 52,
+            "final_answer": "-47,-95\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 53,
+            "final_answer": "2.4",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 54,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 55,
+            "final_answer": "30,78\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 56,
+            "final_answer": "53,35\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 57,
+            "final_answer": "48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 58,
+            "final_answer": "8,32",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 59,
+            "final_answer": "6,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 60,
+            "final_answer": "3,9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 61,
+            "final_answer": "65,63",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 62,
+            "final_answer": "75,25",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 63,
+            "final_answer": "32,23\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 64,
+            "final_answer": "320,109",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 65,
+            "final_answer": "15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 66,
+            "final_answer": "40,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 67,
+            "final_answer": "30,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 68,
+            "final_answer": "5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 69,
+            "final_answer": "30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 70,
+            "final_answer": "3.5,6.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 71,
+            "final_answer": "158,142\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 72,
+            "final_answer": "38\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 73,
+            "final_answer": "6.8,8.571428571428571",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 74,
+            "final_answer": "1.35",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 75,
+            "final_answer": "7200,4800",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 76,
+            "final_answer": "5,7.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 77,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 78,
+            "final_answer": "3,5",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 79,
+            "final_answer": "6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 80,
+            "final_answer": "16,8\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 81,
+            "final_answer": "6,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 82,
+            "final_answer": "x+y=12,100x+80y=1050\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 83,
+            "final_answer": "2.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 84,
+            "final_answer": "x+y=89,4x+y=155\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 85,
+            "final_answer": "12,3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 86,
+            "final_answer": "69.83,97.6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 87,
+            "final_answer": "24,8\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 88,
+            "final_answer": "5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 89,
+            "final_answer": "4800,2400\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 90,
+            "final_answer": "3,4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 91,
+            "final_answer": "30\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 92,
+            "final_answer": "1.2\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 93,
+            "final_answer": "18.",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 94,
+            "final_answer": "840,160",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 95,
+            "final_answer": "80,60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 96,
+            "final_answer": "100,100",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 97,
+            "final_answer": "5",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 98,
+            "final_answer": "5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 99,
+            "final_answer": "12",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 100,
+            "final_answer": "12,3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 101,
+            "final_answer": "500,350",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 102,
+            "final_answer": "57,50\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 103,
+            "final_answer": "63,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 104,
+            "final_answer": "12,16",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 105,
+            "final_answer": "7,26",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 106,
+            "final_answer": "360,450",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 107,
+            "final_answer": "3,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 108,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 109,
+            "final_answer": "16.8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 110,
+            "final_answer": "6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 111,
+            "final_answer": "40,16",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 112,
+            "final_answer": "5,1",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 113,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 114,
+            "final_answer": "0.5",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 115,
+            "final_answer": "500,250",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 116,
+            "final_answer": "1,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 117,
+            "final_answer": "1050",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 118,
+            "final_answer": "7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 119,
+            "final_answer": "25",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 120,
+            "final_answer": "8,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 121,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 122,
+            "final_answer": "219.47,437.94",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 123,
+            "final_answer": "3,3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 124,
+            "final_answer": "23.65",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 125,
+            "final_answer": "35,15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 126,
+            "final_answer": "48,240",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 127,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 128,
+            "final_answer": "14,19",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 129,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 130,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 131,
+            "final_answer": "15,80",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 132,
+            "final_answer": "120",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 133,
+            "final_answer": "32.75",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 134,
+            "final_answer": "11.4",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 135,
+            "final_answer": "60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 136,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 137,
+            "final_answer": "10,32",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 138,
+            "final_answer": "23",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 139,
+            "final_answer": "8,13",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 140,
+            "final_answer": "292",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 141,
+            "final_answer": "4600,5400",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 142,
+            "final_answer": "6,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 143,
+            "final_answer": "1.6",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 144,
+            "final_answer": "200,200",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 145,
+            "final_answer": "28\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 146,
+            "final_answer": "6,19",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 147,
+            "final_answer": "40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 148,
+            "final_answer": "31,60\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 149,
+            "final_answer": "15,9,13\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 150,
+            "final_answer": "24,96\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 151,
+            "final_answer": "6,12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 152,
+            "final_answer": "7,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 153,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 154,
+            "final_answer": "27\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 155,
+            "final_answer": "300\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 156,
+            "final_answer": "315\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 157,
+            "final_answer": "450,304\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 158,
+            "final_answer": "64,72\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 159,
+            "final_answer": "18,27\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 160,
+            "final_answer": "5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 161,
+            "final_answer": "112\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 162,
+            "final_answer": "50000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 163,
+            "final_answer": "9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 164,
+            "final_answer": "2.55,2.95",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 165,
+            "final_answer": "20,120",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 166,
+            "final_answer": "2.5",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 167,
+            "final_answer": "4,3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 168,
+            "final_answer": "1350,31650",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 169,
+            "final_answer": "15,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 170,
+            "final_answer": "400,450",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 171,
+            "final_answer": "80,60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 172,
+            "final_answer": "27,16",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 173,
+            "final_answer": "4.545454545454545",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 174,
+            "final_answer": "15,52",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 175,
+            "final_answer": "5500",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 176,
+            "final_answer": "10,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 177,
+            "final_answer": "5.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 178,
+            "final_answer": "20,60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 179,
+            "final_answer": "33,38",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 180,
+            "final_answer": "30000,20000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 181,
+            "final_answer": "150,105",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 182,
+            "final_answer": "27,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 183,
+            "final_answer": "220",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 184,
+            "final_answer": "25",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 185,
+            "final_answer": "60,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 186,
+            "final_answer": "20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 187,
+            "final_answer": "1000, 750",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 188,
+            "final_answer": "360",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 189,
+            "final_answer": "18",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 190,
+            "final_answer": "46,21",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 191,
+            "final_answer": "25",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 192,
+            "final_answer": "20,21",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 193,
+            "final_answer": "15,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 194,
+            "final_answer": "20,180",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 195,
+            "final_answer": "201, 80.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 196,
+            "final_answer": "168",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 197,
+            "final_answer": "15,60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 198,
+            "final_answer": "21,35,735",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 199,
+            "final_answer": "2400,2400",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 200,
+            "final_answer": "7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 201,
+            "final_answer": "18",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 202,
+            "final_answer": "0.8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 203,
+            "final_answer": "13200,19800",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 204,
+            "final_answer": "48,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 205,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 206,
+            "final_answer": "10,17",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 207,
+            "final_answer": "448,344",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 208,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 209,
+            "final_answer": "15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 210,
+            "final_answer": "7.5,11.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 211,
+            "final_answer": "35,55",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 212,
+            "final_answer": "9,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 213,
+            "final_answer": "1.5",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 214,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 215,
+            "final_answer": "15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 216,
+            "final_answer": "138",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 217,
+            "final_answer": "6400,1600",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 218,
+            "final_answer": "45,54",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 219,
+            "final_answer": "12,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 220,
+            "final_answer": "4,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 221,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 222,
+            "final_answer": "30,35",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 223,
+            "final_answer": "30,23",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 224,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 225,
+            "final_answer": "1.2",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 226,
+            "final_answer": "6.1176470588235294,5.735294117647059",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 227,
+            "final_answer": "2,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 228,
+            "final_answer": "17500",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 229,
+            "final_answer": "240,80",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 230,
+            "final_answer": "3,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 231,
+            "final_answer": "20,13\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 232,
+            "final_answer": "5,15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 233,
+            "final_answer": "315\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 234,
+            "final_answer": "150,250,525,933\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 235,
+            "final_answer": "15000,5000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 236,
+            "final_answer": "2000,1000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 237,
+            "final_answer": "32,8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 238,
+            "final_answer": "240\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 239,
+            "final_answer": "60,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 240,
+            "final_answer": "30,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 241,
+            "final_answer": "20,13\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 242,
+            "final_answer": "7,-4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 243,
+            "final_answer": "9,36\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 244,
+            "final_answer": "-3\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 245,
+            "final_answer": "40,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 246,
+            "final_answer": "8,32\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 247,
+            "final_answer": "120\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 248,
+            "final_answer": "40,10,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 249,
+            "final_answer": "30.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 250,
+            "final_answer": "17500",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 251,
+            "final_answer": "5",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 252,
+            "final_answer": "I'm sorry, but I am unable to solve this problem without showing the working as it is an algebraic equation.  I suggest you to break down the problem step by step, and then you will be able to get the solution of the problem. \n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 253,
+            "final_answer": "6,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 254,
+            "final_answer": "1000",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 255,
+            "final_answer": "6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 256,
+            "final_answer": "6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 257,
+            "final_answer": "84",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 258,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 259,
+            "final_answer": "3,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 260,
+            "final_answer": "15, 30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 261,
+            "final_answer": "3,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 262,
+            "final_answer": "96",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 263,
+            "final_answer": "3,6",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 264,
+            "final_answer": "45",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 265,
+            "final_answer": "20,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 266,
+            "final_answer": "18",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 267,
+            "final_answer": "30,45",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 268,
+            "final_answer": "1200",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 269,
+            "final_answer": "216",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 270,
+            "final_answer": "60.0",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 271,
+            "final_answer": "7.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 272,
+            "final_answer": "1.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 273,
+            "final_answer": "68.5",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 274,
+            "final_answer": "6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 275,
+            "final_answer": "4",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 276,
+            "final_answer": "84,63",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 277,
+            "final_answer": "2,4",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 278,
+            "final_answer": "2,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 279,
+            "final_answer": "30,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 280,
+            "final_answer": "16,8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 281,
+            "final_answer": "955.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 282,
+            "final_answer": "100,100",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 283,
+            "final_answer": "13.33,6.67",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 284,
+            "final_answer": "150,75",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 285,
+            "final_answer": "100,110",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 286,
+            "final_answer": "3600,1800",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 287,
+            "final_answer": "12,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 288,
+            "final_answer": "6,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 289,
+            "final_answer": "32",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 290,
+            "final_answer": "6,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 291,
+            "final_answer": "3.6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 292,
+            "final_answer": "3.5",
+            "result": "has one or more of the answers when rounded, but not all of them"
+        },
+        {
+            "question_No": 293,
+            "final_answer": "440",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 294,
+            "final_answer": "44,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 295,
+            "final_answer": "1.2,0.8",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 296,
+            "final_answer": "6,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 297,
+            "final_answer": "5,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 298,
+            "final_answer": "3,7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 299,
+            "final_answer": "1.4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 300,
+            "final_answer": "210",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 301,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 302,
+            "final_answer": "600",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 303,
+            "final_answer": "47",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 304,
+            "final_answer": "4.5",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 305,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 306,
+            "final_answer": "-9, -6",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 307,
+            "final_answer": "1.6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 308,
+            "final_answer": "400,200",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 309,
+            "final_answer": "-21,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 310,
+            "final_answer": "720,80",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 311,
+            "final_answer": "53,710,66,316",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 312,
+            "final_answer": "72,27",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 313,
+            "final_answer": "22.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 314,
+            "final_answer": "6,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 315,
+            "final_answer": "45,65",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 316,
+            "final_answer": "30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 317,
+            "final_answer": "450,50",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 318,
+            "final_answer": "12,15",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 319,
+            "final_answer": "3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 320,
+            "final_answer": "12",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 321,
+            "final_answer": "30000,70000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 322,
+            "final_answer": "15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 323,
+            "final_answer": "13,14",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 324,
+            "final_answer": "2",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 325,
+            "final_answer": "20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 326,
+            "final_answer": "1120,780",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 327,
+            "final_answer": "7,8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 328,
+            "final_answer": "90,60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 329,
+            "final_answer": "2,8",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 330,
+            "final_answer": "7200,4800",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 331,
+            "final_answer": "22",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 332,
+            "final_answer": "12,7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 333,
+            "final_answer": "150",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 334,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 335,
+            "final_answer": "16,32",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 336,
+            "final_answer": "55,70",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 337,
+            "final_answer": "18,9",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 338,
+            "final_answer": "60,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 339,
+            "final_answer": "6,4",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 340,
+            "final_answer": "8,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 341,
+            "final_answer": "100\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 342,
+            "final_answer": "33,16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 343,
+            "final_answer": "2.75,3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 344,
+            "final_answer": "10,30\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 345,
+            "final_answer": "2500,2500\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 346,
+            "final_answer": "24\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 347,
+            "final_answer": "12,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 348,
+            "final_answer": "28,26\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 349,
+            "final_answer": "8\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 350,
+            "final_answer": "440,352\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 351,
+            "final_answer": "2.75\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 352,
+            "final_answer": "20,13\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 353,
+            "final_answer": "2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 354,
+            "final_answer": "30,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 355,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 356,
+            "final_answer": "22.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 357,
+            "final_answer": "5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 358,
+            "final_answer": "100",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 359,
+            "final_answer": "10,18",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 360,
+            "final_answer": "50,50",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 361,
+            "final_answer": "27,72",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 362,
+            "final_answer": "9,-4",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 363,
+            "final_answer": "18,21",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 364,
+            "final_answer": "2.5",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 365,
+            "final_answer": "27,12",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 366,
+            "final_answer": "17",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 367,
+            "final_answer": "24,24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 368,
+            "final_answer": "15,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 369,
+            "final_answer": "4/11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 370,
+            "final_answer": "-1,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 371,
+            "final_answer": "120,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 372,
+            "final_answer": "14,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 373,
+            "final_answer": "21,12",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 374,
+            "final_answer": "6,24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 375,
+            "final_answer": "3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 376,
+            "final_answer": "72",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 377,
+            "final_answer": "20,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 378,
+            "final_answer": "100",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 379,
+            "final_answer": "20,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 380,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 381,
+            "final_answer": "7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 382,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 383,
+            "final_answer": "144,54",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 384,
+            "final_answer": "10.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 385,
+            "final_answer": "4,3",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 386,
+            "final_answer": "222",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 387,
+            "final_answer": "8,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 388,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 389,
+            "final_answer": "10,22\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 390,
+            "final_answer": "3,8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 391,
+            "final_answer": "9,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 392,
+            "final_answer": "20,56\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 393,
+            "final_answer": "-20,-10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 394,
+            "final_answer": "3,42",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 395,
+            "final_answer": "9",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 396,
+            "final_answer": "6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 397,
+            "final_answer": "56,64",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 398,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 399,
+            "final_answer": "2\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 400,
+            "final_answer": "40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 401,
+            "final_answer": "10,12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 402,
+            "final_answer": "120\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 403,
+            "final_answer": "12\n",
+            "result": "has one or more of the answers when rounded, but not all of them"
+        },
+        {
+            "question_No": 404,
+            "final_answer": "55\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 405,
+            "final_answer": "20\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 406,
+            "final_answer": "4200,3800\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 407,
+            "final_answer": "16,28\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 408,
+            "final_answer": "71\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 409,
+            "final_answer": "Tom:20,Alice:35",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 410,
+            "final_answer": "Bill:11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 411,
+            "final_answer": "9,12",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 412,
+            "final_answer": "3.6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 413,
+            "final_answer": "14,9\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 414,
+            "final_answer": "24\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 415,
+            "final_answer": "Francis:8,Grant:40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 416,
+            "final_answer": "12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 417,
+            "final_answer": "1.14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 418,
+            "final_answer": "2262.5,2732\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 419,
+            "final_answer": "3,2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 420,
+            "final_answer": "75,25\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 421,
+            "final_answer": "240,125\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 422,
+            "final_answer": "14.285714285714285\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 423,
+            "final_answer": "1.6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 424,
+            "final_answer": "7,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 425,
+            "final_answer": "127,60",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 426,
+            "final_answer": "39,24,1",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 427,
+            "final_answer": "16,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 428,
+            "final_answer": "16320",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 429,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 430,
+            "final_answer": "160,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 431,
+            "final_answer": "6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 432,
+            "final_answer": "6.2,6.2\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 433,
+            "final_answer": "2.4\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 434,
+            "final_answer": "3,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 435,
+            "final_answer": "8000,2000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 436,
+            "final_answer": "2.4\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 437,
+            "final_answer": "360,480\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 438,
+            "final_answer": "10,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 439,
+            "final_answer": "8,56",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 440,
+            "final_answer": "12,2",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 441,
+            "final_answer": "22,44,66",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 442,
+            "final_answer": "15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 443,
+            "final_answer": "64,64",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 444,
+            "final_answer": "3",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 445,
+            "final_answer": "1.2,1.17\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 446,
+            "final_answer": "25,50\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 447,
+            "final_answer": "22,16",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 448,
+            "final_answer": "32,43",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 449,
+            "final_answer": "56000,43000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 450,
+            "final_answer": "80,120",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 451,
+            "final_answer": "16,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 452,
+            "final_answer": "1500,700",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 453,
+            "final_answer": "20,4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 454,
+            "final_answer": "40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 455,
+            "final_answer": "3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 456,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 457,
+            "final_answer": "7000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 458,
+            "final_answer": "100\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 459,
+            "final_answer": "10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 460,
+            "final_answer": "40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 461,
+            "final_answer": "22\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 462,
+            "final_answer": "1\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 463,
+            "final_answer": "120\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 464,
+            "final_answer": "7,4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 465,
+            "final_answer": "24,8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 466,
+            "final_answer": "60,100\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 467,
+            "final_answer": "9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 468,
+            "final_answer": "5,9\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 469,
+            "final_answer": "20,15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 470,
+            "final_answer": "15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 471,
+            "final_answer": "10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 472,
+            "final_answer": "5,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 473,
+            "final_answer": "72,116",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 474,
+            "final_answer": "7000,3000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 475,
+            "final_answer": "6,16",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 476,
+            "final_answer": "5,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 477,
+            "final_answer": "20,15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 478,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 479,
+            "final_answer": "140,140",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 480,
+            "final_answer": "15",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 481,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 482,
+            "final_answer": "20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 483,
+            "final_answer": "4, 2.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 484,
+            "final_answer": "12,3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 485,
+            "final_answer": "6,15",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 486,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 487,
+            "final_answer": "35,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 488,
+            "final_answer": "1400",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 489,
+            "final_answer": "7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 490,
+            "final_answer": "8,18",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 491,
+            "final_answer": "15,51",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 492,
+            "final_answer": "2,53",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 493,
+            "final_answer": "25,52",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 494,
+            "final_answer": "3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 495,
+            "final_answer": "36,67",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 496,
+            "final_answer": "2",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 497,
+            "final_answer": "18,9",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 498,
+            "final_answer": "104",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 499,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 500,
+            "final_answer": "6,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 501,
+            "final_answer": "2000,2032",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 502,
+            "final_answer": "3,6,9",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 503,
+            "final_answer": "86,77\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 504,
+            "final_answer": "24,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 505,
+            "final_answer": "20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 506,
+            "final_answer": "93,28\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 507,
+            "final_answer": "14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 508,
+            "final_answer": "46\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 509,
+            "final_answer": "20,16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 510,
+            "final_answer": "40,60\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 511,
+            "final_answer": "300\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 512,
+            "final_answer": "19\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 513,
+            "final_answer": "1.25,2.25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 514,
+            "final_answer": "554,292\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 515,
+            "final_answer": "144,48\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 516,
+            "final_answer": "40,40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 517,
+            "final_answer": "360,450\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 518,
+            "final_answer": "6,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 519,
+            "final_answer": "160\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 520,
+            "final_answer": "35,44\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 521,
+            "final_answer": "9,3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 522,
+            "final_answer": "40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 523,
+            "final_answer": "12.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 524,
+            "final_answer": "I'm sorry, it's not possible to determine the number of each type of ticket sold with the information provided. The information given is not sufficient to solve for both variables (number of adult tickets and number of children tickets) with one equation.",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 525,
+            "final_answer": "47,74\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 526,
+            "final_answer": "5.714285714285714\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 527,
+            "final_answer": "45,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 528,
+            "final_answer": "150,50",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 529,
+            "final_answer": "2,4",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 530,
+            "final_answer": "0.25,0.50\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 531,
+            "final_answer": "6,8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 532,
+            "final_answer": "28,42\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 533,
+            "final_answer": "1.5\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 534,
+            "final_answer": "18,24\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 535,
+            "final_answer": "4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 536,
+            "final_answer": "9,13\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 537,
+            "final_answer": "70\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 538,
+            "final_answer": "2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 539,
+            "final_answer": "60,30\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 540,
+            "final_answer": "70,92\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 541,
+            "final_answer": "4,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 542,
+            "final_answer": "20,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 543,
+            "final_answer": "40\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 544,
+            "final_answer": "3,9",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 545,
+            "final_answer": "48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 546,
+            "final_answer": "8,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 547,
+            "final_answer": "15,5",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 548,
+            "final_answer": "16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 549,
+            "final_answer": "7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 550,
+            "final_answer": "8,12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 551,
+            "final_answer": "450,900\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 552,
+            "final_answer": "35,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 553,
+            "final_answer": "15,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 554,
+            "final_answer": "15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 555,
+            "final_answer": "21\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 556,
+            "final_answer": "56,58\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 557,
+            "final_answer": "13\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 558,
+            "final_answer": "360\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 559,
+            "final_answer": "24.8,21.6\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 560,
+            "final_answer": "14,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 561,
+            "final_answer": "100\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 562,
+            "final_answer": "126\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 563,
+            "final_answer": "80,50\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 564,
+            "final_answer": "46\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 565,
+            "final_answer": "6,12\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 566,
+            "final_answer": "24,28",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 567,
+            "final_answer": "24,42",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 568,
+            "final_answer": "3200",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 569,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 570,
+            "final_answer": "15,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 571,
+            "final_answer": "50,57",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 572,
+            "final_answer": "6,23",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 573,
+            "final_answer": "1,14",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 574,
+            "final_answer": "120,23",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 575,
+            "final_answer": "4.8",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 576,
+            "final_answer": "55",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 577,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 578,
+            "final_answer": "20,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 579,
+            "final_answer": "28,26",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 580,
+            "final_answer": "2.4",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 581,
+            "final_answer": "84,48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 582,
+            "final_answer": "18,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 583,
+            "final_answer": "56,48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 584,
+            "final_answer": "6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 585,
+            "final_answer": "28,33\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 586,
+            "final_answer": "45,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 587,
+            "final_answer": "2.25",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 588,
+            "final_answer": "49,94",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 589,
+            "final_answer": "10,46",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 590,
+            "final_answer": "30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 591,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 592,
+            "final_answer": "12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 593,
+            "final_answer": "12, 36",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 594,
+            "final_answer": "320,400",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 595,
+            "final_answer": "3,9",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 596,
+            "final_answer": "20,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 597,
+            "final_answer": "6,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 598,
+            "final_answer": "18,45",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 599,
+            "final_answer": "4,8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 600,
+            "final_answer": "26,53",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 601,
+            "final_answer": "18,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 602,
+            "final_answer": "16.1\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 603,
+            "final_answer": "20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 604,
+            "final_answer": "1.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 605,
+            "final_answer": "-53,-52\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 606,
+            "final_answer": "3200,1300\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 607,
+            "final_answer": "440,566\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 608,
+            "final_answer": "22.4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 609,
+            "final_answer": "2,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 610,
+            "final_answer": "4,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 611,
+            "final_answer": "85,70\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 612,
+            "final_answer": "3.04\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 613,
+            "final_answer": "167,100\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 614,
+            "final_answer": "11.375\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 615,
+            "final_answer": "696,432\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 616,
+            "final_answer": "11\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 617,
+            "final_answer": "4.6875\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 618,
+            "final_answer": "1.8\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 619,
+            "final_answer": "16,8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 620,
+            "final_answer": "24.00\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 621,
+            "final_answer": "3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 622,
+            "final_answer": "11,16",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 623,
+            "final_answer": "760,760",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 624,
+            "final_answer": "5,25",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 625,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 626,
+            "final_answer": "1275,2175",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 627,
+            "final_answer": "20,80",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 628,
+            "final_answer": "3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 629,
+            "final_answer": "2.4,3.2",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 630,
+            "final_answer": "15,13",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 631,
+            "final_answer": "150,100",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 632,
+            "final_answer": "3.3333,3.3333",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 633,
+            "final_answer": "8,7.5",
+            "result": "has one or more of the answers when rounded, but not all of them"
+        },
+        {
+            "question_No": 634,
+            "final_answer": "66",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 635,
+            "final_answer": "45",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 636,
+            "final_answer": "35,40",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 637,
+            "final_answer": "39",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 638,
+            "final_answer": "10,5",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 639,
+            "final_answer": "3700,725",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 640,
+            "final_answer": "1.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 641,
+            "final_answer": "48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 642,
+            "final_answer": "2.4",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 643,
+            "final_answer": "25,14",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 644,
+            "final_answer": "8,48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 645,
+            "final_answer": "15,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 646,
+            "final_answer": "40,45",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 647,
+            "final_answer": "45,90",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 648,
+            "final_answer": "5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 649,
+            "final_answer": "110,187",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 650,
+            "final_answer": "32",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 651,
+            "final_answer": "15",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 652,
+            "final_answer": "16,11",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 653,
+            "final_answer": "10,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 654,
+            "final_answer": "48,72",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 655,
+            "final_answer": "50000,75000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 656,
+            "final_answer": "15,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 657,
+            "final_answer": "20,24\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 658,
+            "final_answer": "12.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 659,
+            "final_answer": "5,16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 660,
+            "final_answer": "25,25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 661,
+            "final_answer": "12,8\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 662,
+            "final_answer": "47,54\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 663,
+            "final_answer": "25,35\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 664,
+            "final_answer": "18,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 665,
+            "final_answer": "72,27\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 666,
+            "final_answer": "10,18\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 667,
+            "final_answer": "7,2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 668,
+            "final_answer": "22\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 669,
+            "final_answer": "8\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 670,
+            "final_answer": "21,32\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 671,
+            "final_answer": "40,49\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 672,
+            "final_answer": "8,10\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 673,
+            "final_answer": "24\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 674,
+            "final_answer": "60\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 675,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 676,
+            "final_answer": "7000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 677,
+            "final_answer": "6,2",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 678,
+            "final_answer": "18,9",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 679,
+            "final_answer": "36,7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 680,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 681,
+            "final_answer": "35,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 682,
+            "final_answer": "25,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 683,
+            "final_answer": "48\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 684,
+            "final_answer": "24,26\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 685,
+            "final_answer": "55,102",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 686,
+            "final_answer": "5,7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 687,
+            "final_answer": "6000,4000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 688,
+            "final_answer": "214,364\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 689,
+            "final_answer": "1.6\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 690,
+            "final_answer": "4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 691,
+            "final_answer": "28,22\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 692,
+            "final_answer": "16,22\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 693,
+            "final_answer": "8,4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 694,
+            "final_answer": "36,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 695,
+            "final_answer": "21\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 696,
+            "final_answer": "28\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 697,
+            "final_answer": "38\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 698,
+            "final_answer": "20,25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 699,
+            "final_answer": "22.62,16.38\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 700,
+            "final_answer": "2.4\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 701,
+            "final_answer": "24,28\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 702,
+            "final_answer": "0.25,0.25\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 703,
+            "final_answer": "7350,2650\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 704,
+            "final_answer": "22.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 705,
+            "final_answer": "0.5\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 706,
+            "final_answer": "24\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 707,
+            "final_answer": "120",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 708,
+            "final_answer": "9",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 709,
+            "final_answer": "20,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 710,
+            "final_answer": "34,29",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 711,
+            "final_answer": "20,5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 712,
+            "final_answer": "11,16",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 713,
+            "final_answer": "40,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 714,
+            "final_answer": "100,300",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 715,
+            "final_answer": "5.6,8.4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 716,
+            "final_answer": "15,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 717,
+            "final_answer": "93,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 718,
+            "final_answer": "1.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 719,
+            "final_answer": "72",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 720,
+            "final_answer": "2400",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 721,
+            "final_answer": "7500,2500",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 722,
+            "final_answer": "4,22",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 723,
+            "final_answer": "4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 724,
+            "final_answer": "20,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 725,
+            "final_answer": "5,8",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 726,
+            "final_answer": "33",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 727,
+            "final_answer": "7,28",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 728,
+            "final_answer": "48",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 729,
+            "final_answer": "3,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 730,
+            "final_answer": "7.8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 731,
+            "final_answer": "3,6",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 732,
+            "final_answer": "16,32",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 733,
+            "final_answer": "36000,12000",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 734,
+            "final_answer": "20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 735,
+            "final_answer": "14",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 736,
+            "final_answer": "120",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 737,
+            "final_answer": "26",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 738,
+            "final_answer": "16,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 739,
+            "final_answer": "20,16\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 740,
+            "final_answer": "5,5.75\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 741,
+            "final_answer": "19,28\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 742,
+            "final_answer": "64,16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 743,
+            "final_answer": "20,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 744,
+            "final_answer": "70,75\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 745,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 746,
+            "final_answer": "1400,800\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 747,
+            "final_answer": "40\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 748,
+            "final_answer": "56\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 749,
+            "final_answer": "60,72\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 750,
+            "final_answer": "20,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 751,
+            "final_answer": "5,11\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 752,
+            "final_answer": "70,80\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 753,
+            "final_answer": "-14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 754,
+            "final_answer": "50,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 755,
+            "final_answer": "3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 756,
+            "final_answer": "30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 757,
+            "final_answer": "10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 758,
+            "final_answer": "12,32\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 759,
+            "final_answer": "20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 760,
+            "final_answer": "872,224",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 761,
+            "final_answer": "-5,-12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 762,
+            "final_answer": "50,50",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 763,
+            "final_answer": "4",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 764,
+            "final_answer": "17,24",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 765,
+            "final_answer": "14,7",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 766,
+            "final_answer": "2800,1700",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 767,
+            "final_answer": "80",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 768,
+            "final_answer": "30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 769,
+            "final_answer": "35",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 770,
+            "final_answer": "60,55",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 771,
+            "final_answer": "11,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 772,
+            "final_answer": "100.",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 773,
+            "final_answer": "5:00",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 774,
+            "final_answer": "160",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 775,
+            "final_answer": "30,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 776,
+            "final_answer": "10,4,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 777,
+            "final_answer": "34,29",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 778,
+            "final_answer": "8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 779,
+            "final_answer": "0.24,0.52",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 780,
+            "final_answer": "30,20",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 781,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 782,
+            "final_answer": "12,3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 783,
+            "final_answer": "47,26",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 784,
+            "final_answer": "35,7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 785,
+            "final_answer": "450,340\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 786,
+            "final_answer": "2.4\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 787,
+            "final_answer": "2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 788,
+            "final_answer": "8,7\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 789,
+            "final_answer": "45,44\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 790,
+            "final_answer": "8,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 791,
+            "final_answer": "33\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 792,
+            "final_answer": "5,12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 793,
+            "final_answer": "15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 794,
+            "final_answer": "20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 795,
+            "final_answer": "7200,2800\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 796,
+            "final_answer": "24,42\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 797,
+            "final_answer": "19,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 798,
+            "final_answer": "1600,400\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 799,
+            "final_answer": "35\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 800,
+            "final_answer": "24\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 801,
+            "final_answer": "12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 802,
+            "final_answer": "36,44\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 803,
+            "final_answer": "1.8,3.2",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 804,
+            "final_answer": "6,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 805,
+            "final_answer": "30",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 806,
+            "final_answer": "50,200\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 807,
+            "final_answer": "3\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 808,
+            "final_answer": "288,32\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 809,
+            "final_answer": "n+d=35,0.05n+0.1d=2.85\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 810,
+            "final_answer": "70,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 811,
+            "final_answer": "4,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 812,
+            "final_answer": "8,11\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 813,
+            "final_answer": "6,4\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 814,
+            "final_answer": "24,56\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 815,
+            "final_answer": "20,5\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 816,
+            "final_answer": "120,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 817,
+            "final_answer": "150\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 818,
+            "final_answer": "7,14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 819,
+            "final_answer": "1.2\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 820,
+            "final_answer": "57,43\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 821,
+            "final_answer": "12000,8000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 822,
+            "final_answer": "16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 823,
+            "final_answer": "10\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 824,
+            "final_answer": "360,120,240\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 825,
+            "final_answer": "11,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 826,
+            "final_answer": "-5,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 827,
+            "final_answer": "3.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 828,
+            "final_answer": "2600,3400\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 829,
+            "final_answer": "2.2,2.8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 830,
+            "final_answer": "15,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 831,
+            "final_answer": "15,25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 832,
+            "final_answer": "120\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 833,
+            "final_answer": "1000, 800",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 834,
+            "final_answer": "-30,33",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 835,
+            "final_answer": "24,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 836,
+            "final_answer": "24,18",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 837,
+            "final_answer": "24",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 838,
+            "final_answer": "8500",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 839,
+            "final_answer": "I'm sorry, the information provided is not sufficient to solve the problem. The distance traveled cannot be determined without knowing the speed of Fritz's car or the speed of the train. Can you please provide more information?\n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 840,
+            "final_answer": "3,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 841,
+            "final_answer": "532,57",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 842,
+            "final_answer": "7,14",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 843,
+            "final_answer": "2240,2860",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 844,
+            "final_answer": "20,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 845,
+            "final_answer": "0.5,3,3.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 846,
+            "final_answer": "12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 847,
+            "final_answer": "8,16\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 848,
+            "final_answer": "50,150\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 849,
+            "final_answer": "70,100\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 850,
+            "final_answer": "5,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 851,
+            "final_answer": "120,40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 852,
+            "final_answer": "40.",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 853,
+            "final_answer": "8,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 854,
+            "final_answer": "6,14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 855,
+            "final_answer": "6\n",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 856,
+            "final_answer": "13,14\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 857,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 858,
+            "final_answer": "35,15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 859,
+            "final_answer": "69,23\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 860,
+            "final_answer": "1.5,3.25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 861,
+            "final_answer": "60,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 862,
+            "final_answer": "18,18\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 863,
+            "final_answer": "20,60\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 864,
+            "final_answer": "6,4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 865,
+            "final_answer": "10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 866,
+            "final_answer": "12.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 867,
+            "final_answer": "37\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 868,
+            "final_answer": "4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 869,
+            "final_answer": "14,14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 870,
+            "final_answer": "40,30",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 871,
+            "final_answer": "12,3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 872,
+            "final_answer": "50\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 873,
+            "final_answer": "35,55",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 874,
+            "final_answer": "22.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 875,
+            "final_answer": "4,000\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 876,
+            "final_answer": "3.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 877,
+            "final_answer": "20,25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 878,
+            "final_answer": "500,500\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 879,
+            "final_answer": "7200\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 880,
+            "final_answer": "6,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 881,
+            "final_answer": "8,3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 882,
+            "final_answer": "11,6\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 883,
+            "final_answer": "60,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 884,
+            "final_answer": "65\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 885,
+            "final_answer": "6,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 886,
+            "final_answer": "15",
+            "result": "has one or more of the answers, but not all of them"
+        },
+        {
+            "question_No": 887,
+            "final_answer": "63,36",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 888,
+            "final_answer": "5,-14",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 889,
+            "final_answer": "J+x=3(D+x)\n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 890,
+            "final_answer": "1.25\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 891,
+            "final_answer": "19,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 892,
+            "final_answer": "19,9\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 893,
+            "final_answer": "14\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 894,
+            "final_answer": "3,9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 895,
+            "final_answer": "2\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 896,
+            "final_answer": "44,50\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 897,
+            "final_answer": "5.6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 898,
+            "final_answer": "12,8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 899,
+            "final_answer": "3.6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 900,
+            "final_answer": "560,80\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 901,
+            "final_answer": "86,162",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 902,
+            "final_answer": "81,27\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 903,
+            "final_answer": "24,8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 904,
+            "final_answer": "5,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 905,
+            "final_answer": "21,9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 906,
+            "final_answer": "6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 907,
+            "final_answer": "6,3\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 908,
+            "final_answer": "18,27\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 909,
+            "final_answer": "3,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 910,
+            "final_answer": "34,68\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 911,
+            "final_answer": "89,89\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 912,
+            "final_answer": "12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 913,
+            "final_answer": "70,56\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 914,
+            "final_answer": "80,20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 915,
+            "final_answer": "9,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 916,
+            "final_answer": "8.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 917,
+            "final_answer": "63\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 918,
+            "final_answer": "75,105\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 919,
+            "final_answer": "12,12\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 920,
+            "final_answer": "1.3333333\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 921,
+            "final_answer": "8\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 922,
+            "final_answer": "974\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 923,
+            "final_answer": "741",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 924,
+            "final_answer": "2,8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 925,
+            "final_answer": "0.6,0.9",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 926,
+            "final_answer": "151.3",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 927,
+            "final_answer": "25.5,22.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 928,
+            "final_answer": "12,52",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 929,
+            "final_answer": "24,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 930,
+            "final_answer": "10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 931,
+            "final_answer": "80",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 932,
+            "final_answer": "73,37",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 933,
+            "final_answer": "40, 40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 934,
+            "final_answer": "I'm sorry, but based on the information provided, it is not possible to determine the distance Juan drives to work and back home. This is because the speed of travel in both directions, as well as the total travel time, are given but the distance traveled is not specified. \n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 935,
+            "final_answer": "20,10",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 936,
+            "final_answer": "8.33",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 937,
+            "final_answer": "5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 938,
+            "final_answer": "50,150",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 939,
+            "final_answer": "40",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 940,
+            "final_answer": "75",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 941,
+            "final_answer": "250",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 942,
+            "final_answer": "12,14",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 943,
+            "final_answer": "3.50",
+            "result": "has one or more of the answers when rounded, but not all of them"
+        },
+        {
+            "question_No": 944,
+            "final_answer": "20,4\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 945,
+            "final_answer": "5,20",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 946,
+            "final_answer": "96,25",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 947,
+            "final_answer": "26,75",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 948,
+            "final_answer": "1.2",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 949,
+            "final_answer": "10,2",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 950,
+            "final_answer": "20,10",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 951,
+            "final_answer": "5,3.5",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 952,
+            "final_answer": "14.4, 12.8",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 953,
+            "final_answer": "867",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 954,
+            "final_answer": "12,6,8,4",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 955,
+            "final_answer": "30,70.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 956,
+            "final_answer": "15.75,20.25\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 957,
+            "final_answer": "40,115\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 958,
+            "final_answer": "20\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 959,
+            "final_answer": "63\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 960,
+            "final_answer": "2.4\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 961,
+            "final_answer": "6,9\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 962,
+            "final_answer": "1.8\n",
+            "result": "has all the answers when rounded"
+        },
+        {
+            "question_No": 963,
+            "final_answer": "73,37\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 964,
+            "final_answer": "7,5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 965,
+            "final_answer": "-16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 966,
+            "final_answer": "35,15\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 967,
+            "final_answer": "26\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 968,
+            "final_answer": "44,16\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 969,
+            "final_answer": "21\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 970,
+            "final_answer": "107.2,7.5\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 971,
+            "final_answer": "3,6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 972,
+            "final_answer": "15",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 973,
+            "final_answer": "132=3d+150m,142=2d+400m\n",
+            "result": "says no solution"
+        },
+        {
+            "question_No": 974,
+            "final_answer": "315,315\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 975,
+            "final_answer": "36\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 976,
+            "final_answer": "15,12",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 977,
+            "final_answer": "20,19",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 978,
+            "final_answer": "0.65,1.5625",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 979,
+            "final_answer": "24.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 980,
+            "final_answer": "26.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 981,
+            "final_answer": "9.6\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 982,
+            "final_answer": "74,104\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 983,
+            "final_answer": "800.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 984,
+            "final_answer": "55.\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 985,
+            "final_answer": "38\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 986,
+            "final_answer": "8.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 987,
+            "final_answer": "66,56\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 988,
+            "final_answer": "0.1\n",
+            "result": "has one or more of the answers when rounded, but not all of them"
+        },
+        {
+            "question_No": 989,
+            "final_answer": "36\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 990,
+            "final_answer": "2.\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 991,
+            "final_answer": "20,30\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 992,
+            "final_answer": "20,10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 993,
+            "final_answer": "10\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 994,
+            "final_answer": "7\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 995,
+            "final_answer": "192\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 996,
+            "final_answer": "60\n",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 997,
+            "final_answer": "15,9\n",
+            "result": "has all the answers"
+        },
+        {
+            "question_No": 998,
+            "final_answer": "90",
+            "result": "has none of the answers"
+        },
+        {
+            "question_No": 999,
+            "final_answer": "61,62",
+            "result": "has none of the answers"
+        }
+    ]
+}
