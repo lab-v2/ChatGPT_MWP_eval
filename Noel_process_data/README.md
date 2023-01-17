@@ -2,8 +2,8 @@
 
 # Folders
 ## input
-chatgpt.json - Responses from ChatGPT received by Abhinav
-draw.json - Original data set with math equations, intermediary steps and solutions.
+chatgpt.json - Responses from ChatGPT received by Abhinav  
+draw.json - Original data set with math equations, intermediary steps and solutions.  
 
 ## output
 1_extract_features.json - Json containing extracted features from the math equations in draw.json. Features such as number of additions, subtractions, etc.
