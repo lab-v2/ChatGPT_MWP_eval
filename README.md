@@ -38,6 +38,7 @@ The objects within the array contain three keys:
 The possible values for the "result" key are: "says no solution" (ChatGPT was not able to provide a solution for the problem), "has none of the answers" (ChatGPT provided an answer but it is not correct), "has one or more of the answers, but not all of them" (ChatGPT provided one or more correct answers, but not all of them), "has one or more of the answers when rounded, but not all of them" (ChatGPT provided one or more correct answers when rounded, but not all of them), "has all the answers" (ChatGPT provided all the correct answers), "has all the answers when rounded" (ChatGPT provided all the correct answers when rounded).
 
 
+The test1.json file can be found here: [test1.json](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/test.json)
 
 ## Usage
 Here is an example of how you can read the JSON file in Python:
@@ -57,4 +58,5 @@ for question in data["Answers"]:
 ## Results
 The results of this project show that ChatGPT fails in 84% of DRAW-1K problems, even if we accept partial and rounded solutions. Additionally, several factors about MWPs relating to the number of unknowns and number of operations were identified that lead to a higher probability of failure. The probability of failure was also found to increase linearly with the number of addition and subtraction operations.
 
+For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/ShakarianEtAl_ChatGPT_MWP.pdf)
 
