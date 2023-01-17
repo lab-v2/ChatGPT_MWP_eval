@@ -18,6 +18,10 @@ The dataset used in this project is the DRAW-1K dataset, which includes 1,000 MW
 
 "Equiv": This key holds a list of any additional equivalent expressions that can be used to solve the problem.
 
+The complete DRAW-1K dataset can be found on: 
+[S. Upadhyay, M.-W. Chang, Annotating derivations: A new evaluation
+strategy and dataset for algebra word problems](URL: http://arxiv.org/abs/1609.07197).
+
 ## TestResults
 The test results of evaluating ChatGPT's performance on the questions from the DRAW-1K dataset are stored in the "test.json" file. This file contains a JSON object with a single key "Answers", which corresponds to an array of objects. Each object in this array represents a single math word problem and its corresponding answer provided by ChatGPT.
 
