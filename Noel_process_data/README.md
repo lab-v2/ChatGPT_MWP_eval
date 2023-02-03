@@ -15,11 +15,11 @@ You can create your own files which define how a row is correct and run.py will 
 3.7.9
 
 ### pip Versions
-pandas              -- 1.3.5 
-numpy               -- 1.21.6 
-scikit-learn        -- 1.0.2
-python-dotenv       -- 0.21.1
-matplotlib          -- 3.5.3
-torch               -- 1.13.1+cu116
-torchaudio          -- 0.13.1+cu116
-torchvision         -- 0.14.1+cu116
+pandas              -- 1.3.5  
+numpy               -- 1.21.6  
+scikit-learn        -- 1.0.2  
+python-dotenv       -- 0.21.1  
+matplotlib          -- 3.5.3  
+torch               -- 1.13.1+cu116  
+torchaudio          -- 0.13.1+cu116  
+torchvision         -- 0.14.1+cu116  
