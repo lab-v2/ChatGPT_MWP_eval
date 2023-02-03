@@ -23,6 +23,3 @@ matplotlib          -- 3.5.3
 torch               -- 1.13.1+cu116
 torchaudio          -- 0.13.1+cu116
 torchvision         -- 0.14.1+cu116
-
-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
-OfficialChatGPT --api_key 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 --stream
