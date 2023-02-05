@@ -1,0 +1,44 @@
+[
+  {
+    "fold": 1,
+    "guessed Not_Fully_Correct precision score": 0.5,
+    "guessed Not_Fully_Correct recall score": 0.2962962963,
+    "guessed not Not_Fully_Correct precision score": 0.5,
+    "guessed not Not_Fully_Correct recall score": 0.7037037037
+  },
+  {
+    "fold": 2,
+    "guessed Not_Fully_Correct precision score": 0.6052631579,
+    "guessed Not_Fully_Correct recall score": 0.8518518519,
+    "guessed not Not_Fully_Correct precision score": 0.75,
+    "guessed not Not_Fully_Correct recall score": 0.4444444444
+  },
+  {
+    "fold": 3,
+    "guessed Not_Fully_Correct precision score": 0.6774193548,
+    "guessed Not_Fully_Correct recall score": 0.7777777778,
+    "guessed not Not_Fully_Correct precision score": 0.7391304348,
+    "guessed not Not_Fully_Correct recall score": 0.6296296296
+  },
+  {
+    "fold": 4,
+    "guessed Not_Fully_Correct precision score": 0.5294117647,
+    "guessed Not_Fully_Correct recall score": 0.6666666667,
+    "guessed not Not_Fully_Correct precision score": 0.55,
+    "guessed not Not_Fully_Correct recall score": 0.4074074074
+  },
+  {
+    "fold": 5,
+    "guessed Not_Fully_Correct precision score": 0.6571428571,
+    "guessed Not_Fully_Correct recall score": 0.8518518519,
+    "guessed not Not_Fully_Correct precision score": 0.7894736842,
+    "guessed not Not_Fully_Correct recall score": 0.5555555556
+  },
+  {
+    "fold": "full dataset6",
+    "guessed Not_Fully_Correct precision score": 0.6571428571,
+    "guessed Not_Fully_Correct recall score": 0.8518518519,
+    "guessed not Not_Fully_Correct precision score": 0.7894736842,
+    "guessed not Not_Fully_Correct recall score": 0.5555555556
+  }
+]
