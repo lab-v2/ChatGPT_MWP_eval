@@ -22,8 +22,10 @@ The complete DRAW-1K dataset can be found on:
 [S. Upadhyay, M.-W. Chang, Annotating derivations: A new evaluation
 strategy and dataset for algebra word problems](URL: http://arxiv.org/abs/1609.07197).
 
-## TestResults
-The test results of evaluating ChatGPT's performance on the questions from the DRAW-1K dataset are stored in the "test.json" file. This file contains a JSON object with a single key "Answers", which corresponds to an array of objects. Each object in this array represents a single math word problem and its corresponding answer provided by ChatGPT.
+## Test Results  
+ChatGPT was evaluated at various times over the course of this experiment, the results can be found in the following files:
+[Tested in January] ChatGPT base performance (no working) : [chatgpt_results_jan.json][jan_results]
+
 
 The objects within the array contain three keys:
 
@@ -58,5 +60,7 @@ for question in data["Answers"]:
 ## Results
 The results of this project show that ChatGPT fails in 84% of DRAW-1K problems, even if we accept partial and rounded solutions. Additionally, several factors about MWPs relating to the number of unknowns and number of operations were identified that lead to a higher probability of failure. The probability of failure was also found to increase linearly with the number of addition and subtraction operations.
 
+
 For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/ShakarianEtAl_ChatGPT_MWP.pdf)
 
+[jan_results]: [data_with_implementation/data/chatgpt_results_jan.json]
