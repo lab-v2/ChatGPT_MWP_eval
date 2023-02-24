@@ -28,14 +28,12 @@ ChatGPT was evaluated at various times over the course of this experiment, the r
 - [Tested in February,  2023] ChatGPT performance (no working) : [chatgpt_results_feb.json](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/main/data_with_implementation/data/chatgpt__results_feb.json)  
 - [Tested in February,  2023] ChatGPT plus performance (with working) : [chatgpt_plus_results_feb.json](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/main/data_with_implementation/data/chatgpt_plus_results_feb.json)
 
-
+  
 The objects within the array contain three keys:
 
-"question_No": This key holds the unique identifier for the question, represented as an integer.
-
-"final_answer": This key holds the answer provided by ChatGPT for the corresponding question, represented as a string.
-
-"result": This key holds a brief description of the answer provided by ChatGPT, represented as a string. This key is used to evaluate the quality of the answer provided by ChatGPT.
+- **question_No**: This key holds the unique identifier for the question, represented as an integer.
+- **final_answer**: This key holds the answer provided by ChatGPT for the corresponding question, represented as a string.
+- **result**: This key holds a brief description of the answer provided by ChatGPT, represented as a string. This key is used to evaluate the quality of the answer provided by ChatGPT.
 
 
 
