@@ -35,7 +35,13 @@ The objects within the array contain three keys:
 - `final_answer`: This key holds the answer provided by ChatGPT for the corresponding question, represented as a string.
 - `result`: This key holds a brief description of the answer provided by ChatGPT, represented as a string. This key is used to evaluate the quality of the answer provided by ChatGPT.
 
-The possible values for the "result" key are: "says no solution" (ChatGPT was not able to provide a solution for the problem), "has none of the answers" (ChatGPT provided an answer but it is not correct), "has one or more of the answers, but not all of them" (ChatGPT provided one or more correct answers, but not all of them), "has one or more of the answers when rounded, but not all of them" (ChatGPT provided one or more correct answers when rounded, but not all of them), "has all the answers" (ChatGPT provided all the correct answers), "has all the answers when rounded" (ChatGPT provided all the correct answers when rounded).
+The possible values for the "result" key are: 
+- `says no solution` (ChatGPT was not able to provide a solution for the problem)
+- `has none of the answers` (ChatGPT provided an answer but it is not correct)
+- `has one or more of the answers, but not all of them` (ChatGPT provided one or more correct answers, but not all of them)
+- `has one or more of the answers when rounded, but not all of them` (ChatGPT provided one or more correct answers when rounded, but not all of them)
+- `has all the answers` (ChatGPT provided all the correct answers) 
+- `has all the answers when rounded` (ChatGPT provided all the correct answers when rounded).
 
 
 The test1.json file can be found here: [test1.json](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/test.json)
