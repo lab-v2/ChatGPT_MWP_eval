@@ -56,7 +56,7 @@ for question in data["Answers"]:
     result = question["result"]
 ```
 ## Results
-ChatGPT was evaluated at various times over the course of this experiment, the results are as follows:
+ChatGPT was evaluated at various times over the course of this experiment, the results are as follows:  
 **[Tested in January, 2023] ChatGPT performance (no working)**   
 The results of this project show that, in January, ChatGPT failed in 84% of DRAW-1K problems (partial and rounded solutions are identified as correct). Additionally, several factors about MWPs relating to the number of unknowns and number of operations were identified that lead to a higher probability of failure. The probability of failure was also found to increase linearly with the number of addition and subtraction operations.  
   
