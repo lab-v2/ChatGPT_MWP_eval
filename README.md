@@ -23,8 +23,10 @@ The complete DRAW-1K dataset can be found on:
 strategy and dataset for algebra word problems](URL: http://arxiv.org/abs/1609.07197).
 
 ## Test Results  
-ChatGPT was evaluated at various times over the course of this experiment, the results can be found in the following files:
-[Tested in January] ChatGPT base performance (no working) : [chatgpt_results_jan.json][jan_results]
+ChatGPT was evaluated at various times over the course of this experiment, the results can be found in the following files:  
+- [Tested in January,   2023] ChatGPT performance (no working) : [chatgpt_results_jan.json][jan_results]
+- [Tested in February,  2023] ChatGPT performance (no working) : [chatgpt_results_feb.json][feb_results]
+- [Tested in February,  2023] ChatGPT plus performance (with working) : [chatgpt_plus_results_feb.json][feb_plus_results]
 
 
 The objects within the array contain three keys:
@@ -64,3 +66,5 @@ The results of this project show that ChatGPT fails in 84% of DRAW-1K problems, 
 For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/ShakarianEtAl_ChatGPT_MWP.pdf)
 
 [jan_results]: [data_with_implementation/data/chatgpt_results_jan.json]
+[feb_results]: [data_with_implementation/data/chatgpt_results_feb.json]
+[feb_plus_results]: [data_with_implementation/data/chatgpt_plus_results_feb.json]
