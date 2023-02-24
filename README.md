@@ -4,19 +4,13 @@ The emergence of large language models (LLMs) have gained much popularity in rec
 ## Dataset
 The dataset used in this project is the DRAW-1K dataset, which includes 1,000 MWPs with associated answers and template algebraic equations that one would use to solve such a word problem. Each object includes the following information:
 
-"sQuestion": This key holds the text of the math word problem.
-
-"lSolutions": This key holds a list of solutions for the problem, represented as a float.
-
-"Template": This key holds a list of algebraic equations that can be used to solve the problem.
-
-"lEquations": This key holds a list of equations that can be used to solve the problem.
-
-"iIndex": This key holds an identifier for the problem, represented as an integer.
-
-"Alignment": This key holds a list of objects that provide additional information about how the problem relates to the solutions and equations.
-
-"Equiv": This key holds a list of any additional equivalent expressions that can be used to solve the problem.
+- `sQuestion`: This key holds the text of the math word problem.
+- `lSolutions`: This key holds a list of solutions for the problem, represented as a float.
+- `Template`: This key holds a list of algebraic equations that can be used to solve the problem.
+- `lEquations1`: This key holds a list of equations that can be used to solve the problem.
+- `iIndex1`: This key holds an identifier for the problem, represented as an integer.
+- `Alignment`: This key holds a list of objects that provide additional information about how the problem relates to the solutions and equations.
+- `Equiv`: This key holds a list of any additional equivalent expressions that can be used to solve the problem.
 
 The complete DRAW-1K dataset can be found on: 
 [S. Upadhyay, M.-W. Chang, Annotating derivations: A new evaluation
