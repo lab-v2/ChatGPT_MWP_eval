@@ -65,6 +65,6 @@ The results of this project show that ChatGPT fails in 84% of DRAW-1K problems, 
 
 For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/ShakarianEtAl_ChatGPT_MWP.pdf)
 
-[jan_results]: [data_with_implementation/data/chatgpt_results_jan.json]
-[feb_results]: [data_with_implementation/data/chatgpt_results_feb.json]
-[feb_plus_results]: [data_with_implementation/data/chatgpt_plus_results_feb.json]
+[jan_results]: [https://github.com/lab-v2/ChatGPT_MWP_eval/blob/main/data_with_implementation/data/chatgpt_results_jan.json]
+[feb_results]: [https://github.com/lab-v2/ChatGPT_MWP_eval/blob/main/data_with_implementation/data/chatgpt__results_feb.json]
+[feb_plus_results]: [https://github.com/lab-v2/ChatGPT_MWP_eval/blob/main/data_with_implementation/data/chatgpt_plus_results_feb.json]
