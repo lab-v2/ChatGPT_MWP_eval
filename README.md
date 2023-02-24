@@ -60,9 +60,9 @@ ChatGPT was evaluated at various times over the course of this experiment, the r
 **[Tested in January, 2023] ChatGPT performance (no working)**   
 The results of this project show that, in January, ChatGPT failed in 84% of DRAW-1K problems (partial and rounded solutions are identified as correct). Additionally, several factors about MWPs relating to the number of unknowns and number of operations were identified that lead to a higher probability of failure. The probability of failure was also found to increase linearly with the number of addition and subtraction operations.  
   
-**[Tested in February, 2023] ChatGPT performance (no working) : chatgpt_results_feb.json**
+**[Tested in February, 2023] ChatGPT performance (no working)**
   
-**[Tested in February, 2023] ChatGPT plus performance (with working) : chatgpt_plus_results_feb.json**
+**[Tested in February, 2023] ChatGPT plus performance (with working)**
 
 
 For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/ShakarianEtAl_ChatGPT_MWP.pdf)
