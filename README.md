@@ -66,4 +66,4 @@ The results of this project show that, in February, when asked to remove working
 **[Tested in February, 2023] ChatGPT plus performance (with working)**
 The results of this project show that, in February, without asking to remove working, ChatGPT failed in 20% of DRAW-1K problems (partial and rounded solutions are identified as correct). 
 
-For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://github.com/lab-v2/ChatGPT_MWP_eval/blob/e8230777268b9976c5e7f30a5e9eb86082c274b2/ShakarianEtAl_ChatGPT_MWP.pdf)
+For more detailed information on the project, please refer to the full paper linked here: [ShakarianEtAl_ChatGPT_MWP](https://arxiv.org/pdf/2302.13814.pdf)
